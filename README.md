@@ -1,5 +1,6 @@
 # 浅入浅出 Shallow Dive
 
-文章合集，每篇一个文件夹。
+文章合集，每篇一个文件夹，按发布时间倒序排列。
 
-- [浅入浅出&lt;Language as Cash&gt;](language-as-cash/)
+- Oct 9, 2026 · [浅入浅出&lt;Language as Cash&gt;](language-as-cash/)
+- Jul 13, 2026 · [浅入浅出&lt;Action as Debt&gt;](action-as-debt/)
